@@ -6,7 +6,7 @@ import android.util.Log;
 
 public class HelloAndroidActivity extends Activity {
 
-    private static String TAG = "android-test";
+    private static String TAG = "my-android-test";
 
     /**
      * Called when the activity is first created.
