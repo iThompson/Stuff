@@ -119,7 +119,11 @@ public class Poker
                 cards.displayCards(hand);
                 int score = scoreHand(hand);
                
-                Thread.sleep(1000);
+                System.out.println("PRESS ENTER TO CONTINUE");
+                // Two newlines from the previous scanning, one to wait
+                sc.nextLine();
+                sc.nextLine();
+                sc.nextLine();
                
                 return score;
         }
