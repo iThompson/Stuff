@@ -4,6 +4,8 @@ package org.pegasus.poker;
 
 import java.util.ArrayList;
 
+// Test comment
+
 /**
 * Represent/handle a deck of cards
 * @author Istvan
